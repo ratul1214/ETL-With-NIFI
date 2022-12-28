@@ -2,7 +2,7 @@
 
 <img src="architecture.png" width="500px"/>
 
--## Nifi Impletetion of this architecture
+- ## Nifi Impletetion of this architecture
 
 
 <img src="nifiFlow.png" width="500px"/>
